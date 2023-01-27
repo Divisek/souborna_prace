@@ -1,0 +1,15 @@
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\bin\Debug\net6.0\souborna_prace.exe
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\bin\Debug\net6.0\souborna_prace.deps.json
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\bin\Debug\net6.0\souborna_prace.runtimeconfig.json
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\bin\Debug\net6.0\souborna_prace.dll
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\bin\Debug\net6.0\souborna_prace.pdb
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\obj\Debug\net6.0\souborna_prace.csproj.AssemblyReference.cache
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\obj\Debug\net6.0\souborna_prace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\obj\Debug\net6.0\souborna_prace.AssemblyInfoInputs.cache
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\obj\Debug\net6.0\souborna_prace.AssemblyInfo.cs
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\obj\Debug\net6.0\souborna_prace.csproj.CoreCompileInputs.cache
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\obj\Debug\net6.0\souborna_prace.dll
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\obj\Debug\net6.0\refint\souborna_prace.dll
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\obj\Debug\net6.0\souborna_prace.pdb
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\obj\Debug\net6.0\souborna_prace.genruntimeconfig.cache
+C:\Users\divoc\OneDrive\Plocha\souborna_prace\souborna_prace\obj\Debug\net6.0\ref\souborna_prace.dll
